@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bikash Datta</h1>
+<h1 align="center">Hi 👋, I'm Bikash</h1>
 <h3 align="center">A computer science enthusiast</h3>
 
 - 🔭 I’m currently working on **Cross platform app development.**
