@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bikash Datta</h1>
 <h3 align="center">A computer science enthusiast</h3>
 
-- 🔭 I’m currently working on **Cross platform app development.**
+- 🔭 I’m currently working on **Android Development.**
 
 - 🌱 I’m currently learning **Data Structure, Algorithms and Computer Networking.**
-
-- 🤝 I’m looking for help with **Flutter**
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/dattabikash505/articles](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
