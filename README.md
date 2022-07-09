@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bikash Datta</h1>
 <h3 align="center">A computer science enthusiast</h3>
 
-- 🔭 I’m currently working on **Android Development.**
+- 🔭 I’m currently working on **Android Development & Data Science.**
 
 - 🌱 I’m currently learning **Data Structure, Algorithms and Computer Networking.**
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/dattabikash505/articles](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
-- 💬 Ask me about **Java, Swing, Android and Socket programming.**
+- 💬 Ask me about **Java, Swing, Android, OOPs, MySQL, Excel & Tableau**
 
 - 📫 How to reach me **bikash@onlinedegree.iitm.ac.in**
 
