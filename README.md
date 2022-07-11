@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Bikash Datta</h1>
 <h3 align="center">A computer science enthusiast</h3>
 
+
+
+
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
+
+
+
+
+
 - 🔭 I’m currently working on **Android Development & Data Science.**
 
 - 🌱 I’m currently learning **Data Structure, Algorithms and Computer Networking.**
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/dattabikash505/articles](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
+- 📝 I regularly write articles on [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
-- 💬 Ask me about **Java, Swing, Android, OOPs, MySQL, Excel & Tableau**
+- 💬 Ask me about **Java, Android, OOPs, MySQL, Excel & Tableau**
 
 - 📫 How to reach me **bikash@onlinedegree.iitm.ac.in**
-
-- ⚡ Fun fact **I know you are viewing my profile.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -25,4 +37,8 @@
 </p> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obhujerpencil&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="left" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obhujerpencil&layout=compact">
+
+<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=obhujerpencil&show_icons=true&theme=radical">
