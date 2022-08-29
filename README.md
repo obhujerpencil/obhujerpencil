@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structure, Algorithms and Computer Networking.**
 
-- 📝 Here goes my publications[Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
+- 📝 Here goes my publications [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
 - 💬 Ask me about **Java, Computer Networking, OOPs, Android, MySQL and Excel**
 
