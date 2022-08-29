@@ -13,13 +13,13 @@
 
 
 
-- 🔭 I’m currently working on **Android Development & Data Science.**
+- 🔭 I’m currently working on **Computer Networking & Data Science.**
 
 - 🌱 I’m currently learning **Data Structure, Algorithms and Computer Networking.**
 
-- 📝 I regularly write articles on [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
+- 📝 Here goes my publications[Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
-- 💬 Ask me about **Java, Android, OOPs, MySQL, Excel & Tableau**
+- 💬 Ask me about **Java, Computer Networking, OOPs, Android, MySQL and Excel**
 
 - 📫 How to reach me **bikash@onlinedegree.iitm.ac.in**
 
