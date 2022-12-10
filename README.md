@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Computer Networking & Data Science.**
 
-- 🌱 I’m currently learning **Data Structure, Algorithms and Computer Networking.**
+- 🌱 I’m currently learning **Ethical Hacking and Computer Networking.**
 
 - 📝 Here goes my publications [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
