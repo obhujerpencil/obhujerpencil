@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Computer Networking & Data Science.**
+- 🔭 I’m currently working on **Computer Networking & Android.**
 
 - 🌱 I’m currently learning **Ethical Hacking and Computer Networking.**
 
