@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Datta</h1>
-<h3 align="center">A computer science enthusiast</h3>
+<h3 align="center">A computer science enthusiast & an upcoming Senior SDE at WIPRO</h3>
 
 
 
