@@ -19,7 +19,7 @@
 
 - 📝 Here goes my publications [Link](https://auth.geeksforgeeks.org/user/dattabikash505/articles)
 
-- 💬 Ask me about **Java, Computer Networking, OOPs, Android, MySQL and Excel**
+- 💬 Ask me about **Java, Computer Networking, OOPs, Android, MySQL, RPA and Excel**
 
 - 📫 How to reach me **bikash@onlinedegree.iitm.ac.in**
 
